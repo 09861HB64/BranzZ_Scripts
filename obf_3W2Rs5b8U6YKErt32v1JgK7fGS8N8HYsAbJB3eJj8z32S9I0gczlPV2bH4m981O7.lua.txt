@@ -146,7 +146,7 @@ if game and Players then
     copyBtn.Size = UDim2.new(1, -30, 0, 38)
     copyBtn.Position = UDim2.new(0, 15, 0, 210)
     copyBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
-    copyBtn.Text = "📋  Copiar Link"
+    copyBtn.Text = "📋  Copiar Link Do Discord"
     copyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
     copyBtn.TextSize = 15
     copyBtn.Font = Enum.Font.GothamBold
